@@ -1,3 +1,4 @@
+//Adapted from https://tour.golang.org/welcome/1
 package main
 
 import "fmt"
