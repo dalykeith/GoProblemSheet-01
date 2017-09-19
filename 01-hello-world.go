@@ -1,3 +1,6 @@
+//Hello, world! in Go
+//Author: Keith Daly
+
 //Adapted from https://tour.golang.org/welcome/1
 package main
 
