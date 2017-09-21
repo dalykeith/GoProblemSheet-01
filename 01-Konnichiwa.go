@@ -1,4 +1,4 @@
-//Hello, world! in Go
+//01-Konnichiwa.go
 //Author: Keith Daly
 
 //Adapted from https://tour.golang.org/welcome/1
