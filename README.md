@@ -1,4 +1,5 @@
-# Data Representation & Querying college module problem sheet.
+# Data Representation & Querying
+# Problem Sheet 01.
 
 This is my first repository of GoLang.
 
@@ -8,10 +9,6 @@ Author: Keith Daly.
 
 Innitiated: September 2017.
 
-Student @gmit, Galway, Ireland. 
+Student @GMIT, Galway, Ireland. 
 
 Year three - Semester one.
-
-# 1. Kon’nichiwa, Sekai!
-Source: https://tour.golang.org/welcome/1
-Write a program that prints “Hello, world!” in Japanese (using Japanese characters) to the screen.
