@@ -5,16 +5,20 @@ package main
 import "fmt"
 func main{
 	
+	
 	var num int = 10
 	var factor int = 1
 
+
+	//fmt.Println("Welcome to Factorial Digital Sum")
 
 	for i:=0; i < num; i++ {
 
 		factorial += factorial * i
 	}
 
-	fmt.println(factorial)
+	//output factorial 
+	fmt.Println(factorial)
 	var digit, sum int = 0,0;
 
 	for factorial > 0 {
@@ -23,7 +27,7 @@ func main{
 		factorial /=10
 	}
 
-	fmt.println(sum)
+	fmt.Println(sum)
 }
 
 

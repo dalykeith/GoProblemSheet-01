@@ -25,10 +25,10 @@ func main() {
 		fmt.Println(i, Fizz + Buzz)
 
 		if result != "" {
-			fmt.println(result)
+			fmt.Println(result)
 		}
         else{
-			fmt.println(i)
+			fmt.Println(i)
 			continue
 		}	
 	}

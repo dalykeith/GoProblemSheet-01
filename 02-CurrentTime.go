@@ -4,13 +4,11 @@
 //Adapted from https://tour.golang.org/welcome/4c 
 package main
 
-import (
-	"fmt"
-	"time"
-)
+import "fmt"
+import "time"
 
 func main() {
-	fmt.Println("Time Now!")
 
+	//output the time
 	fmt.Println("The time is", time.Now())
 }
