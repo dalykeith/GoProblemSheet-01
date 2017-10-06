@@ -67,7 +67,7 @@ Write a guessing game where the user must guess a randomly generated number. Aft
 
 Write a function that returns the largest and smallest elements in a list.
 
-* 7. Palindrome test
+* ## 7. Palindrome test
 
 Write a function that tests whether a string is a palindrome. A palindrome is a string that reads the same in reverse, e.g. radar.
 
