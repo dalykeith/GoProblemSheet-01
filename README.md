@@ -43,11 +43,11 @@ go run <filename>
 
 # Problem set: Go fundamentals
 
-* # 1. Kon’nichiwa, Sekai!
+* ##ß 1. Kon’nichiwa, Sekai!
 
 Write a program that prints Hello, world! in Japanese (using Japanese characters) to the screen.
 
-*  # ß2. Current time
+*  ## 2. Current time
 
 Write a program that prints the current time and date to the console.
 
