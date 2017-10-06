@@ -1,6 +1,8 @@
 //05-GuessingGame.go
 //Author: Keith Daly
 
+//Adapted from http://ispycode.com/GO/Flow-Control/Examples/High-Low-Guessing-Game
+
 package main 
 
 import "fmt" 
