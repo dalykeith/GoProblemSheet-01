@@ -1,6 +1,8 @@
 //06-LargestAndSmallestInList.go
 //Author: Keith Daly
 
+//Adapted from https://gist.github.com/pyk/10519339
+
 package main
 
 import "fmt"
