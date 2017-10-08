@@ -2,31 +2,30 @@
 //Author: Keith Daly
 
 package main
+
 import "fmt"
-func main{
-	
-	
-	var num int = 10
-	var factor int = 1
 
-
+	func main
+	{
+	
+	var num int = 8
+	var factorNum int = 1
 	//fmt.Println("Welcome to Factorial Digital Sum")
 
-	for i:=0; i < num; i++ {
-
-		factorial += factorial * i
+	for i:=0; i < num; i++ 
+	{
+		factorNum += factorNum * i
 	}
-
 	//output factorial 
-	fmt.Println(factorial)
+	fmt.Println(factorNum)
 	var digit, sum int = 0,0;
 
-	for factorial > 0 {
-		digit = factorial  % 10
+	for factorial > 0 
+	{
+		digit = factorNum  % 10
 		sum += digit
-		factorial /=10
+		factorNum /=10
 	}
-
 	fmt.Println(sum)
 }
 
